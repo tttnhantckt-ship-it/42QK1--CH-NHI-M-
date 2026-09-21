@@ -1,0 +1,8 @@
+{
+  "name": "42QK1 - Quản Lý Và Kinh Doanh Du Lịch",
+  "description": "Ứng dụng quản lý sinh viên và các môn học lớp 42QK1 - Quản lý và kinh doanh du lịch, GVCN ThS. Trịnh Thị Thanh Nhàn - Trường Trung cấp Kinh tế Khánh Hoà. Theo dõi điểm số, điểm danh, lịch học theo tuần và nề nếp chuyên cần.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
